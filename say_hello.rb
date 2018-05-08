@@ -1,4 +1,6 @@
 # Build your say_hello method here
 def say_hello(name="Hello Ruby Programmer!")
-  return "Hello ${name}!"
+  puts "Hello " + name "!"
+  
 end
+ 
